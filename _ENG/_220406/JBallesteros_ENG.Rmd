@@ -1,0 +1,220 @@
+---
+title: "Jay Ballesteros [ES]"
+author: Jay Ballesteros
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # css:
+      # - override.css
+      # - resume
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jballesterosc@pm.me
+- <i class="fa fa-github"></i> [github.com/jballesterosc](https://github.com/jballesterosc)
+- <i class="fa fa-phone"></i> +52 55-7213-2738
+- For more information, please contact me via email. 
+
+Summary {#skills}
+--------------------------------------------------------------------------------
+
+- Mid-level public policy analyst with experience in research, management, and implementation of international development programs and consultancy projects focused on security and justice.
+
+Technical Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Python
+- Excel / Spreadsheets
+- SQL
+- Tableau
+- R
+
+Footnote {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Jay Ballesteros-Cobián {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidad de Colima
+
+BA in International Relations
+
+Colima, México
+
+2016
+
+### Universidad de León
+
+ERASMUS+ program in International Trade and Finance
+
+León, Spain
+
+2016
+
+Professional experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Public Policy Analyst
+
+Fundación IDEA
+
+Mexico City
+
+2022 - 2021
+
+- Currently working on the creation of internal coordination mechanisms that assist the articulation of the investigation teams for the prosecution of high-priority crimes, as well as of the prosecutor's office with other local security and justice institutions.
+- Participating in the construction of external cooperation mechanisms of state prosecutors' offices with other actors of the criminal justice system in Mexico (Judicial Branch, police forces, public defenders, and so on).
+- Collaborating in the planning and design of the implementation of coordination and cooperation mechanisms, for their formalization in the state prosecutors' offices of the country.
+
+### Public Policy Analyst
+
+C230 Consultores
+
+Mexico City
+
+2021
+
+- Supported the design of a methodology to evaluate progress in the implementation of the civic justice model in Mexico's municipalities.
+- Participated in the construction of the methodology to identify and analyze recidivism in the civic justice model in the municipalities of Mexico.
+- Collaborated in the design of a methodology to evaluate recidivism in the criminal justice system. 
+- Designed data collection and analysis instruments to monitor recidivism in civic justice and evaluate compliance with effective resolutions in the municipalities.
+- Provided training on the use of instruments for the collection and analysis of recidivism data. 
+- Participated in the creation and facilitation of focus groups to provide feedback and validate the methodology proposals made to the municipalities that implemented the civic justice model. Particularly, with the municipalities of Chihuahua, Escobedo, and Morelia. 
+
+ 
+### State Associate
+
+International Republican Institute
+
+Colima, México
+
+2021 - 2018
+
+- Managed the implementation of the Security with Justice program in the state of Colima, and led the coordination with government authorities, civil society, academia, and the private sector to raise awareness of the benefits of the criminal justice system and the functioning of Alternative Dispute Resolution Mechanisms. 
+- Facilitated more than 30 workshops to more than 1100 people on Restorative Justice and Alternative Dispute Resolution Mechanisms, both at the awareness and technical levels. 
+- Collected, analyzed and reported, based on open data and information requests, the advances in the use of alternative justice in 15 states of the country. 
+- From and Moitoring and Evaluation perspective, I concentrated and reported the indicators of the Security with Justice program in the DevResults platform. 
+
+### Competitiveness Manager
+
+Coparmex Colima
+
+Colima, México
+
+2018 - 2016
+
+- Supported research of topics such as security, justice and economy, for the analysis of the influence on the business activity. 
+- Assisted in the definition of the Coparmex narrative in Colima, based on the analysis of the local context (in terms of security, justice, and economy).
+- Directed the capacity building programs for affiliated companies, on topics such as business administration, productivity, tax reforms, labor rights, among others. 
+- Participated in the organization and dissemination of the anti-corruption campaign _3de3_ in the state of Colima. 
+- Collaborated in the formation and dissemination of the citizen observatory_ ¿Cómo Vamos? Colima_.
+
+Personal projects {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Founder
+
+DataCol
+
+Colima, México
+
+2022 - 2020
+
+- Managed data collecting, analysis, and progress reporting in the COVID-19 pandemic in the state of Colima. This, through time series visualizations.  
+- Performed analysis and data visualization of mobility data in Colima reported by Google. 
+- Designed, released, and shared with the Secretary of Health of the State of Colima, the Python-based code of all the inputs developed by DataCol. This, for its adaptation and use during the cabinet meetings for the analysis of the progress of the pandemic by the COVID-19 in Colima. 
+- Developed data analysis and visualization from the Facebook Political Advertising data during the 2021 Colima state elections. 
+
+
+Awards {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Desafio COVID-19 
+
+Consejo Estatal de Ciencia y Tecnología de Colima
+
+Colima, México
+
+2020
+
+- DataCol was one of the projects selected so, through innovation, the Government of the State of Colima could address COVID-19. DataCol supported the creation of an open data repository; as well as the open-source design for the interpretation, analysis, and visualization of the data provided by the General Directorate of Epidemiology on the progress of COVID-19 in Colima. 
+
+### HackLabAnticorrupción 
+
+Mexiro AC, PNUD, USAID, ITESM
+
+Hidalgo, México
+
+2019
+
+- I won  first place in the anti-corruption public policy proposal. The proposal consisted of the use of blockchain-based technology to track both the evolution of the cadastral value and the charge of ownership of public real estate of the Government of the State of Hidalgo. 
+
+
+Diplomas {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Certificado Profesional en Análisis de Datos
+
+Google
+
+Online
+
+2021
+
+### Datos Abierto y Hacking Cívico
+
+Codeando México, Lab León
+
+Online
+
+2020
+
+### Academia para el Liderazgo Público
+
+Generation Democracy, Accountability Lab
+
+Online
+
+2020
+
+### Escuela de Verano sobre Movilidad Social
+
+Centro de Estudios Espinosa Yglesias
+
+Online
+
+2020
+
+
+### Cato University
+
+Cato Institute
+
+Ciudad de México
+
+2018
