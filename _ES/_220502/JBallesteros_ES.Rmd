@@ -1,0 +1,218 @@
+---
+title: "Jay Ballesteros [ES]"
+author: Jay Ballesteros
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # css:
+      # - override.css
+      # - resume
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+
+
+
+Información de contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jballesteros@pm.me
+- <i class="fa fa-github"></i> [github.com/jballesterosc](https://github.com/jballesterosc)
+- <i class="fa fa-phone"></i> +52 55-7213-2738
+- Para más información, por favor contáctame por correo electrónico.
+
+Resumen {#skills}
+--------------------------------------------------------------------------------
+
+Analista de políticas públicas con experiencia en investigación; análisis de datos; gestión, implementación y consultoría para programas de cooperación internacional para el desarrollo (enfocados en seguridad y justicia).
+
+Aptitudes técnicas {#skills}
+--------------------------------------------------------------------------------
+
+- Python
+- SQL
+- R
+- Hojas de cálculo
+- Tableau
+- Google Data Studio
+
+
+Nota {#disclaimer}
+--------------------------------------------------------------------------------
+
+Este currículum fue realizado con el paquete de _R_ [**pagedown**](https://github.com/rstudio/pagedown).
+
+Última actualización `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Jay Ballesteros Cobián {#title}
+--------------------------------------------------------------------------------
+
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidad de Colima
+
+Licenciatura en Relaciones Internacionales
+
+Colima, México
+
+2016
+
+### Universidad de León
+
+Programa ERASMUS+ en Comercio Internacional y Finanzas
+
+León, España
+
+2016
+
+Experiencia Profesional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Analista de Políticas Públicas (Mid-level)
+
+Fundación IDEA
+
+Ciudad de México
+
+2022 - 2021
+
+- Actualmente trabajo en el diseño e implementación de mecanismos de coordinación interna para las fiscalías estatales, con el objetivo de asistir la articulación de los equipos de investigación durante la persecución de delitos prioritarios.
+- Participo en la creación de mecanismos de coordinación y cooperación externa para las fiscalías estatales, con el objetivo de mejorar su articulación con otras instituciones y actores que conforman el sistema de justicia penal en México (Poder Judicial; policías estatales y municipales; defensoría pública; sociedad civil; etcétera).  
+- Colaboro en la planeación, ejecución y formalización de los mecanismos de coordinación interna y externa en las fiscalías de México.  
+
+### Analista de Políticas Públicas (Jr)
+
+C230 Consultores
+
+Ciudad de México
+
+2021
+
+- Diseñé una metodología para evaluar el progreso en la implementación del modelo de justicia cívica en los municipios de México. 
+- Participé en la construcción de la metodología para identificar y analizar la reincidencia en el modelo de justicia cívica en los municipios de México. 
+- Colaboré en el diseño de una metodología para evaluar la reincidencia en el sistema de justicia penal.
+- Diseñé instrumentos de recolección y análisis de datos para dar seguimiento a la reincidencia en la justicia cívica y evaluar el cumplimiento a las medidas para mejorar la convivencia cotidiana de los municipios. 
+- Participé en la creación y facilitación de grupos de enfoque para retroalimentar y validar las propuestas de metodología realizadas a los municipios que cuentan con el modelo de justicia cívica. Particularmente, con los municipios de Chihuahua, Escobedo, Morelia. Asimismo, impartí capacitaciones para la utilización de los instrumentos de recolección y análisis de datos de reincidencia. 
+
+ 
+### Consultor
+
+International Republican Institute
+
+Colima, México
+
+2021 - 2018
+
+- Dirigí la implementación del programa Seguridad con Justicia en el estado de Colima y conduje la coordinación con autoridades gubernamentales, sociedad civil, academia y el sector privado, para la sensibilización sobre los beneficios del sistema de justicia penal y el funcionamiento de los Mecanismos Alternativos de Solución de Controversias (MASC).
+- Facilité más de 30 talleres a poco más de 1100 personas, sobre Justicia Restaurativa y los MASC, tanto a nivel de sensibilización como técnico.
+- Recolecté, analicé y reporté a partir de datos abiertos y solucitudes de información, los avances en la utilización de la justicia alternativa en 15 estados del país.
+- Desde una perspectiva de Monitoreo y Evaluación, concentré y reporté los indicadores del programa Seguridad con Justicia en la plataforma DevResults. 
+
+### Gerente de Competitividad
+
+Coparmex Colima
+
+Colima, México
+
+2018 - 2016
+
+- Apoyé en la investigación de temas como seguridad, justicia y economía, para el análisis de su influencia en la actividad empresarial. 
+- Asistí en la definición de la narrativa de la Coparmex en Colima, a partir del análisis del contexto local (en términos de seguridad, justicia y economía).
+- Dirigí el programa de formación de capacidades de las empresas afiliadas, tanto en temas de administración de negocios, como productividad, reformas fiscales, derecho laboral, entre otros. 
+
+Proyectos personales {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Fundador
+
+DataCol
+
+Colima, México
+
+2020 - 2022
+
+- Me encargué de recolectar datos, analizarlos y reportar los avances de la pandemia por COVID-19 en el estado de Colima. Esto, a través de visualizaciones de series de tiempo.
+- Realicé análisis y visualización de los datos de movilidad en Colima reportados por Google
+- Diseñé, liberé y compartí con la Secretaría de Salud del Estado de Colima, el código basado en Python de todos los insumos desarrollados por DataCol. Esto, para su adaptación y utilización durante las reuniones de gabinete para el análisis de los avances de la pandemia por el COVID-19 en Colima.
+- Trabajé en el análisis y visualización de los datos de Publicidad Política en Facebook, durante las elecciones estatales de Colima en 2021.
+
+Premios {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Desafio COVID-19 
+
+Consejo Estatal de Ciencia y Tecnología de Colima
+
+Colima, México
+
+2020
+
+- DataCol fue uno de los proyectos seleccionados para que, a través de la innovación, el Gobierno del Estado de Colima hiciera frente al COVID-19. DataCol apoyó en la creación de un repositorio de datos abiertos; así como el diseño de código abierto para la interpretación, análisis y visualización de los datos facilitados por la Dirección General de Epidemiología sobre los avances del COVID-19 en Colima.
+
+### HackLabAnticorrupción 
+
+Mexiro AC, PNUD, USAID, ITESM
+
+Hidalgo, México
+
+2019
+
+- Obtuve el primer lugar en propuesta de política pública anticorrupción. La propuesta consistió en la utilización de tecnología basada en blockchain, para dar seguimiento tanto a la evolución del valor catastral, como el cambio de propietario de los bienes inmuebles públicos del Gobierno del Estado de Hidalgo. 
+
+
+Diplomas {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Certificado Profesional en Análisis de Datos
+
+Google
+
+Online
+
+2021
+
+### Datos Abierto y Hacking Cívico
+
+Codeando México, Lab León
+
+Online
+
+2020
+
+### Academia para el Liderazgo Público
+
+Generation Democracy, Accountability Lab
+
+Online
+
+2020
+
+### Escuela de Verano sobre Movilidad Social
+
+Centro de Estudios Espinosa Yglesias
+
+Online
+
+2020
+
+
+### Cato University
+
+Cato Institute
+
+Ciudad de México
+
+2018
